@@ -1,3 +1,19 @@
+.form{
+  border: 1px solid blue;
+  padding-left: 1%;
+}
+
+
+
+input{
+  margin: 1% 0;
+}
+
+button{
+  margin: 1% 0;
+}
+
+
 .nascondiTabella{
   opacity: 0;
   transition: 2s;
@@ -10,6 +26,23 @@
 
 
 #biglietto{
-  background-color: green;
+  margin: 10px 0;
   padding: 10px;
+}
+
+table{
+  border: 1px solid blue;
+}
+
+
+thead tr{
+  color: red;
+}
+
+thead tr th{
+  padding: 0 2%;
+}
+
+tbody tr{
+  color: black;
 }
