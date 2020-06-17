@@ -1,0 +1,15 @@
+.nascondiTabella{
+  opacity: 0;
+  transition: 2s;
+}
+
+.mostraTabella{
+  opacity: 1;
+  transition: 2s;
+}
+
+
+#biglietto{
+  background-color: green;
+  padding: 10px;
+}
